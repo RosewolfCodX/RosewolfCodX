@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RosewolfCodX
 - 👀 I’m interested in cloud computing and DevOps
 - 🌱 I’m currently learning python and AWS
-- 💞️ I’m looking to collaborate on DevOps projects to further my learning
+- 💞️ I’m looking to collaborate on DevOps projects to compliment my learning
 - 📫 How to reach me...
 
 <!---
